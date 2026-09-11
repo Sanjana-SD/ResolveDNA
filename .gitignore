@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Large Datasets (GitHub 100MB limit)
+data/raw/twcs.csv
+data/raw/*.csv
+data/processed/*.jsonl
+data/processed/resolution_memory.pkl
+data/processed/resolution_memory_store.pkl
+
+# Keep golden set and sample data
+!data/golden/
+!data/golden/*
+!data/processed/resolution_memory_sample.pkl
+!data/intent_taxonomy.json
+
+# Environment / IDE
+.env
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.swp

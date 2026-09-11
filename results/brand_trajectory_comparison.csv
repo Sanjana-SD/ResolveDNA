@@ -1,0 +1,8 @@
+brand,total_threads,avg_thread_len,len_3_plus,explicit_resolution_rate,in_thread_resolution_rate,dm_deflection_rate,repeated_complaint_rate
+AmazonHelp,76799,3.52,40083,4.17,4.06,3.47,1.79
+SpotifyCares,26068,2.83,7608,2.01,1.02,42.81,0.26
+AppleSupport,74613,2.65,21449,3.12,1.94,63.85,0.64
+Uber_Support,39355,2.63,11759,4.5,3.07,39.76,1.24
+Delta,24603,2.67,7110,1.9,1.36,22.38,0.49
+Tesco,15339,2.92,5831,5.35,3.84,37.81,0.5
+Ask_Spectrum,16858,2.6,4369,1.86,0.95,58.0,0.74

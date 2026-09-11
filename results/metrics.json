@@ -1,0 +1,337 @@
+{
+  "ResolveDNA": {
+    "intent_metrics": {
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_intent_f1": {
+        "account_access_login": 1.0,
+        "delivery_status_delay": 1.0,
+        "gift_card_redemption": 1.0,
+        "kindle_ebook_device_issue": 1.0,
+        "missing_package_delivered": 1.0,
+        "other_unknown": 1.0,
+        "prime_video_streaming_issue": 1.0,
+        "product_defect_damage": 1.0,
+        "return_refund_status": 1.0,
+        "unrecognized_billing_charge": 1.0
+      }
+    },
+    "decision_metrics": {
+      "decision_accuracy": 0.56,
+      "auto_handle_precision": 0.5,
+      "auto_handle_count": 88,
+      "escalation_precision": 0.6071,
+      "escalation_count": 112,
+      "false_auto_handle_rate": 0.22,
+      "false_auto_handle_count": 44,
+      "false_escalation_rate": 0.22,
+      "false_escalation_count": 44
+    },
+    "trustworthy_automation_rate": {
+      "trustworthy_automation_rate": 0.22,
+      "trustworthy_count": 44,
+      "total_auto_handled": 88,
+      "auto_handled_case_precision": 0.5,
+      "total_cases": 200
+    },
+    "calibration": {
+      "expected_calibration_error": 0.0712,
+      "bins": [
+        {
+          "bin": "0.20-0.40",
+          "count": 20,
+          "avg_confidence": 0.35,
+          "avg_correctness": 1.0,
+          "gap": 0.65
+        },
+        {
+          "bin": "0.40-0.60",
+          "count": 2,
+          "avg_confidence": 0.6,
+          "avg_correctness": 1.0,
+          "gap": 0.4
+        },
+        {
+          "bin": "0.60-0.80",
+          "count": 169,
+          "avg_confidence": 0.75,
+          "avg_correctness": 1.0,
+          "gap": 0.25
+        },
+        {
+          "bin": "0.80-1.00",
+          "count": 9,
+          "avg_confidence": 0.9,
+          "avg_correctness": 1.0,
+          "gap": 0.1
+        }
+      ]
+    },
+    "difficulty_breakdown": {
+      "Hard": {
+        "count": 27,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.4815
+      },
+      "Noisy": {
+        "count": 1,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.0
+      },
+      "Easy": {
+        "count": 39,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.4359
+      },
+      "Medium": {
+        "count": 131,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.6183
+      },
+      "Conflicting-Evidence": {
+        "count": 2,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.5
+      }
+    }
+  },
+  "Baseline_MajorityClass": {
+    "intent_metrics": {
+      "accuracy": 0.1,
+      "macro_precision": 0.01,
+      "macro_recall": 0.1,
+      "macro_f1": 0.0182,
+      "per_intent_f1": {
+        "account_access_login": 0.0,
+        "delivery_status_delay": 0.0,
+        "gift_card_redemption": 0.0,
+        "kindle_ebook_device_issue": 0.0,
+        "missing_package_delivered": 0.0,
+        "other_unknown": 0.1818,
+        "prime_video_streaming_issue": 0.0,
+        "product_defect_damage": 0.0,
+        "return_refund_status": 0.0,
+        "unrecognized_billing_charge": 0.0
+      }
+    },
+    "decision_metrics": {
+      "decision_accuracy": 0.44,
+      "auto_handle_precision": 0.44,
+      "auto_handle_count": 200,
+      "escalation_precision": 0.0,
+      "escalation_count": 0,
+      "false_auto_handle_rate": 0.56,
+      "false_auto_handle_count": 112,
+      "false_escalation_rate": 0.0,
+      "false_escalation_count": 0
+    },
+    "trustworthy_automation_rate": {
+      "trustworthy_automation_rate": 0.05,
+      "trustworthy_count": 10,
+      "total_auto_handled": 200,
+      "auto_handled_case_precision": 0.05,
+      "total_cases": 200
+    },
+    "calibration": {
+      "expected_calibration_error": NaN,
+      "bins": []
+    },
+    "difficulty_breakdown": {
+      "Hard": {
+        "count": 27,
+        "intent_accuracy": 0.7407,
+        "decision_accuracy": 0.4815
+      },
+      "Noisy": {
+        "count": 1,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.0
+      },
+      "Easy": {
+        "count": 39,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.5128
+      },
+      "Medium": {
+        "count": 131,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.4198
+      },
+      "Conflicting-Evidence": {
+        "count": 2,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.0
+      }
+    }
+  },
+  "Baseline_TfidfLogreg": {
+    "intent_metrics": {
+      "accuracy": 0.76,
+      "macro_precision": 0.924,
+      "macro_recall": 0.76,
+      "macro_f1": 0.7584,
+      "per_intent_f1": {
+        "account_access_login": 0.9189,
+        "delivery_status_delay": 0.9474,
+        "gift_card_redemption": 0.9474,
+        "kindle_ebook_device_issue": 1.0,
+        "missing_package_delivered": 0.8649,
+        "other_unknown": 0.4598,
+        "prime_video_streaming_issue": 0.8889,
+        "product_defect_damage": 1.0,
+        "return_refund_status": 0.0952,
+        "unrecognized_billing_charge": 0.4615
+      }
+    },
+    "decision_metrics": {
+      "decision_accuracy": 0.44,
+      "auto_handle_precision": 0.4381,
+      "auto_handle_count": 194,
+      "escalation_precision": 0.5,
+      "escalation_count": 6,
+      "false_auto_handle_rate": 0.545,
+      "false_auto_handle_count": 109,
+      "false_escalation_rate": 0.015,
+      "false_escalation_count": 3
+    },
+    "trustworthy_automation_rate": {
+      "trustworthy_automation_rate": 0.37,
+      "trustworthy_count": 74,
+      "total_auto_handled": 194,
+      "auto_handled_case_precision": 0.3814,
+      "total_cases": 200
+    },
+    "calibration": {
+      "expected_calibration_error": 0.0281,
+      "bins": [
+        {
+          "bin": "0.40-0.60",
+          "count": 22,
+          "avg_confidence": 0.5259,
+          "avg_correctness": 0.5909,
+          "gap": 0.065
+        },
+        {
+          "bin": "0.60-0.80",
+          "count": 48,
+          "avg_confidence": 0.6997,
+          "avg_correctness": 0.6042,
+          "gap": 0.0956
+        },
+        {
+          "bin": "0.80-1.00",
+          "count": 129,
+          "avg_confidence": 0.929,
+          "avg_correctness": 0.845,
+          "gap": 0.0841
+        }
+      ]
+    },
+    "difficulty_breakdown": {
+      "Hard": {
+        "count": 27,
+        "intent_accuracy": 0.963,
+        "decision_accuracy": 0.5185
+      },
+      "Noisy": {
+        "count": 1,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.0
+      },
+      "Easy": {
+        "count": 39,
+        "intent_accuracy": 0.8974,
+        "decision_accuracy": 0.5128
+      },
+      "Medium": {
+        "count": 131,
+        "intent_accuracy": 0.687,
+        "decision_accuracy": 0.4122
+      },
+      "Conflicting-Evidence": {
+        "count": 2,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.0
+      }
+    }
+  },
+  "Baseline_GenericRAG": {
+    "intent_metrics": {
+      "accuracy": 0.515,
+      "macro_precision": 0.9047,
+      "macro_recall": 0.515,
+      "macro_f1": 0.5736,
+      "per_intent_f1": {
+        "account_access_login": 0.9189,
+        "delivery_status_delay": 0.5185,
+        "gift_card_redemption": 0.8889,
+        "kindle_ebook_device_issue": 0.5,
+        "missing_package_delivered": 0.5714,
+        "other_unknown": 0.2941,
+        "prime_video_streaming_issue": 0.6207,
+        "product_defect_damage": 0.5714,
+        "return_refund_status": 0.5185,
+        "unrecognized_billing_charge": 0.3333
+      }
+    },
+    "decision_metrics": {
+      "decision_accuracy": 0.455,
+      "auto_handle_precision": 0.4467,
+      "auto_handle_count": 197,
+      "escalation_precision": 1.0,
+      "escalation_count": 3,
+      "false_auto_handle_rate": 0.545,
+      "false_auto_handle_count": 109,
+      "false_escalation_rate": 0.0,
+      "false_escalation_count": 0
+    },
+    "trustworthy_automation_rate": {
+      "trustworthy_automation_rate": 0.25,
+      "trustworthy_count": 50,
+      "total_auto_handled": 197,
+      "auto_handled_case_precision": 0.2538,
+      "total_cases": 200
+    },
+    "calibration": {
+      "expected_calibration_error": 0.015,
+      "bins": [
+        {
+          "bin": "0.00-0.20",
+          "count": 3,
+          "avg_confidence": 0.0,
+          "avg_correctness": 1.0,
+          "gap": 1.0
+        }
+      ]
+    },
+    "difficulty_breakdown": {
+      "Hard": {
+        "count": 27,
+        "intent_accuracy": 0.8889,
+        "decision_accuracy": 0.5926
+      },
+      "Noisy": {
+        "count": 1,
+        "intent_accuracy": 1.0,
+        "decision_accuracy": 0.0
+      },
+      "Easy": {
+        "count": 39,
+        "intent_accuracy": 0.3846,
+        "decision_accuracy": 0.5128
+      },
+      "Medium": {
+        "count": 131,
+        "intent_accuracy": 0.4809,
+        "decision_accuracy": 0.4198
+      },
+      "Conflicting-Evidence": {
+        "count": 2,
+        "intent_accuracy": 0.0,
+        "decision_accuracy": 0.0
+      }
+    }
+  }
+}

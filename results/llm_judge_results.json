@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "golden_0001",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0002",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0003",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0004",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0005",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0006",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0007",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0008",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0009",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0010",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0011",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0012",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0013",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0014",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0015",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0016",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0017",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0018",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0019",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0020",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0021",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0022",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0023",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0024",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0025",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0026",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0027",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0028",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0029",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0030",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0031",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0032",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0033",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0034",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0035",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0036",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0037",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0038",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0039",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0040",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0041",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0042",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0043",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0044",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0045",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0046",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0047",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0048",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0049",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0050",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0051",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0052",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0053",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0054",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0055",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0056",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0057",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0058",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0059",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0060",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0061",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0062",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0063",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0064",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0065",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0066",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0067",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0068",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0069",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0070",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0071",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0072",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0073",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0074",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0075",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0076",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0077",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0078",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0079",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0080",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0081",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0082",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0083",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0084",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0085",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0086",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0087",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0088",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0089",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0090",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0091",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0092",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0093",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0094",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0095",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0096",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0097",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0098",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0099",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0100",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0101",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0102",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0103",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0104",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0105",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0106",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0107",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0108",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0109",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0110",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0111",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0112",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0113",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0114",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0115",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0116",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0117",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0118",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0119",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0120",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0121",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0122",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0123",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0124",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0125",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0126",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0127",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0128",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0129",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0130",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0131",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0132",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0133",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0134",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0135",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0136",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0137",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0138",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0139",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0140",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0141",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0142",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0143",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0144",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0145",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0146",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0147",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0148",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0149",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0150",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0151",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0152",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0153",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0154",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0155",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0156",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0157",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0158",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0159",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0160",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0161",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0162",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0163",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0164",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0165",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0166",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0167",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0168",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0169",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0170",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0171",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0172",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0173",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0174",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0175",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0176",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0177",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0178",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0179",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0180",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0181",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0182",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0183",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0184",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0185",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0186",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0187",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0188",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0189",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0190",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0191",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0192",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0193",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0194",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0195",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0196",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0197",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0198",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0199",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  },
+  {
+    "id": "golden_0200",
+    "scores": {
+      "groundedness": 4,
+      "relevance": 4,
+      "helpfulness": 4,
+      "action_correctness": 4,
+      "unsupported_claims": 5,
+      "tone": 5,
+      "judge_method": "heuristic",
+      "overall": 4.33
+    }
+  }
+]

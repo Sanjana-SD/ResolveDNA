@@ -1,0 +1,140 @@
+{
+  "total_trajectories": 76799,
+  "observed_resolution_signals": 3147,
+  "overall_observed_resolution_rate": 4.1,
+  "final_state_breakdown": {
+    "COMPLETED_WITHOUT_EXPLICIT_SIGNAL": 71317,
+    "REPEATED_COMPLAINT_ESCALATED": 1408,
+    "RESOLVED_IN_THREAD": 3107,
+    "DM_DEFLECTED": 927,
+    "RESOLVED_AFTER_DM": 40
+  },
+  "brand_action_effectiveness": [
+    {
+      "brand_action": "provide_link",
+      "frequency": 46074,
+      "pct_of_threads": 59.99,
+      "observed_resolution_rate": 4.71,
+      "escalation_rate": 1.99
+    },
+    {
+      "brand_action": "general_response",
+      "frequency": 37272,
+      "pct_of_threads": 48.53,
+      "observed_resolution_rate": 3.2,
+      "escalation_rate": 1.37
+    },
+    {
+      "brand_action": "apologize",
+      "frequency": 27417,
+      "pct_of_threads": 35.7,
+      "observed_resolution_rate": 5.72,
+      "escalation_rate": 3.11
+    },
+    {
+      "brand_action": "clarify_info",
+      "frequency": 9245,
+      "pct_of_threads": 12.04,
+      "observed_resolution_rate": 6.44,
+      "escalation_rate": 3.16
+    },
+    {
+      "brand_action": "troubleshoot",
+      "frequency": 2493,
+      "pct_of_threads": 3.25,
+      "observed_resolution_rate": 4.57,
+      "escalation_rate": 2.57
+    },
+    {
+      "brand_action": "request_dm",
+      "frequency": 984,
+      "pct_of_threads": 1.28,
+      "observed_resolution_rate": 4.07,
+      "escalation_rate": 1.73
+    },
+    {
+      "brand_action": "explain_policy",
+      "frequency": 895,
+      "pct_of_threads": 1.17,
+      "observed_resolution_rate": 7.37,
+      "escalation_rate": 2.57
+    }
+  ],
+  "top_trajectory_patterns": [
+    {
+      "pattern": "[general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 20850,
+      "percentage": 27.15
+    },
+    {
+      "pattern": "[provide_link] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 14247,
+      "percentage": 18.55
+    },
+    {
+      "pattern": "[apologize -> provide_link] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 10788,
+      "percentage": 14.05
+    },
+    {
+      "pattern": "[provide_link -> general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 7306,
+      "percentage": 9.51
+    },
+    {
+      "pattern": "[apologize] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 3467,
+      "percentage": 4.51
+    },
+    {
+      "pattern": "[apologize -> provide_link -> clarify_info] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 2738,
+      "percentage": 3.57
+    },
+    {
+      "pattern": "[apologize -> provide_link -> general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 2092,
+      "percentage": 2.72
+    },
+    {
+      "pattern": "[provide_link -> clarify_info] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 1091,
+      "percentage": 1.42
+    },
+    {
+      "pattern": "[apologize -> general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 1066,
+      "percentage": 1.39
+    },
+    {
+      "pattern": "[apologize -> clarify_info] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 990,
+      "percentage": 1.29
+    },
+    {
+      "pattern": "[clarify_info] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 805,
+      "percentage": 1.05
+    },
+    {
+      "pattern": "[provide_link -> apologize -> general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 799,
+      "percentage": 1.04
+    },
+    {
+      "pattern": "[apologize -> provide_link -> clarify_info -> general_response] => COMPLETED_WITHOUT_EXPLICIT_SIGNAL",
+      "count": 672,
+      "percentage": 0.88
+    },
+    {
+      "pattern": "[apologize -> provide_link] => RESOLVED_IN_THREAD",
+      "count": 646,
+      "percentage": 0.84
+    },
+    {
+      "pattern": "[provide_link] => RESOLVED_IN_THREAD",
+      "count": 570,
+      "percentage": 0.74
+    }
+  ]
+}
